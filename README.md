@@ -9,7 +9,7 @@ copy this to your terminal
 ```
 curl https://raw.githubusercontent.com/egichSerg/echoless/main/echoless_script.sh -o /usr/local/bin/echoless && chmod +x /usr/local/bin/echoless
 ```
-don't forhet to use **sudo** :)
+don't forget to use **sudo** :)
 
 # Usage
 Just type
