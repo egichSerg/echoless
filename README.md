@@ -2,7 +2,7 @@
 Simple bash script to make prompt disappear!
 
 # Full privacy!
-Joke mode to make everything you enter in the console disappear after you press "Enter"! Except fot the output of the command of course!
+Joke mode to make everything you enter in the console disappear after you press "enter"! Except fot the output of the command of course!
 
 # Installation
 copy this to your terminal
